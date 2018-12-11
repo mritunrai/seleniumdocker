@@ -1,5 +1,5 @@
 # Selenium Grid Using Docker
-Running selenium parallel test using Docker with Selenium Grid
+Running selenium parallel test using Docker and Selenium Grid
 
 ## Setting up Selenium Docker hub
 * Pull Selenium-hub image using command ~  `Docker pull selenium/hub`
