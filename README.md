@@ -1,4 +1,4 @@
-# SeleniumGridWithDocker
+# Selenium Grid Using Docker
 Running selenium parallel test using Docker with Selenium Grid
 
 ## Setting up Selenium Docker hub
